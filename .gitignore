@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# lock files, eg:
+# RnDiffApp/yarn.lock
+# RnDiffApp/package-lock.json
