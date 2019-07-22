@@ -1,0 +1,12 @@
+# project
+TemplateDiffProj/
+
+# macOS
+.DS_Store
+
+# node
+node_modules/
+
+# git worktree
+wt-app
+wt-diffs

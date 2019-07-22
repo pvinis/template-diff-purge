@@ -1,0 +1,7 @@
+repository:
+  name: template-diff-purge
+  description: "Easier template upgrades by clearly exposing changes from one release to the next. :rocket: And what better way than to purge, init, then diff? Spoiler: there's no better way. 😎"
+  homepage: https://pvinis.github.io/template-purge-web/
+  topics: pvinis, purge, diff, upgrade, template, purge-web
+
+  has_wiki: false
